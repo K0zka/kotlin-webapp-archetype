@@ -1,0 +1,11 @@
+<archetype>
+  <id>kotlin-webapp-archetype</id>
+  <sources>
+    <source>src/main/kotlin/SampleServlet.kt</source>
+    <source>src/main/webapp/index.html</source>
+  </sources>
+  <testSources>
+    <source>src/test/kotlin/SampleServletTest.kt</source>
+    <source>src/test/kotlin/SampleServleIT.kt</source>
+  </testSources>
+</archetype>
