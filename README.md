@@ -30,4 +30,9 @@ The generated project will also have unit and integration tests built in, which 
 mvn verify
 ```
 
+More
+====
+
+* [kotlin-simple-archetype](https://github.com/K0zka/kotlin-simple-archetype/) for standalone applications and libraries
+
 Enjoy kotlin!
